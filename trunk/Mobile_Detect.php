@@ -4,7 +4,8 @@
  * Mobile Detect
  *
  * @license    http://www.opensource.org/licenses/mit-license.php The MIT License
- * @version    SVN: $Id: Mobile_Detect.php 3 2010-05-21 13:06:28Z vic.stanciu $
+ * @version    SVN: $Id: Mobile_Detect.php 3 2009-05-21 13:06:28Z vic.stanciu $
+ * @version    SVN: $Id: Mobile_Detect.php 3 2011-04-19 18:44:28Z sjevsejev $
  */
 
 class Mobile_Detect {
